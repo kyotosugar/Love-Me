@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Love Me WatchKit App (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Love Me WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Love Me.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6B6B7B8D1D02C34400CE21CA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B6B7BA61D02C34500CE21CA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B6B7BB11D02C34500CE21CA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B6B7BBA1D02C34500CE21CA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
